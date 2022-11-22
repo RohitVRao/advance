@@ -1,3 +1,4 @@
+package prathap;
 
 public class P3 {
 
